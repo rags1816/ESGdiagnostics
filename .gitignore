@@ -1,0 +1,18 @@
+# Node dependency directory
+node_modules/
+
+# Agent workspace directory
+.antigravity/
+
+# Temporary diagnostic logs and test copies
+*.tmp.js
+*.log
+
+# Windows thumbnail cache and system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+
+# Local JSON backups (if you don't want to push them to GitHub)
+*_ESG_Data_Backup.json
